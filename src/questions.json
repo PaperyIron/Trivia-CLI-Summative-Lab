@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "question": "Which method creates a new array with the results of calling a function on every element?",
+        "options": ["forEah()", "map", "filter", "reduce"],
+        "answer": "map",
+        "answerIndex": 1
+    },
+    {
+        "id": 2,
+        "question": "What does 'const' do in Javascript?",
+        "options": ["Declares a variable whose value can change", "Declares a constant reference", "Delcares a function", "Enables Strings"],
+        "answer": "Declares a constant reference",
+        "answerIndex": 1
+    },
+    {
+        "id": 3,
+        "question": "Which of these is NOT a falsy value?",
+        "options": ["0", " (empty string) ", "[] (Empty array)", "null"],
+        "answer": "[] (empty array)",
+        "answerIndex": 2
+    }
+]
